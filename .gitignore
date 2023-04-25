@@ -1,0 +1,15 @@
+/BIN
+/OBJ
+
+
+*.txt
+
+.gitignore
+
+
+*.md
+/DZ3
+*.cspoj
+*.Task64.cs
+
+
